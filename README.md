@@ -2,7 +2,7 @@
 A SQL database containing the characters and relationships in Greek Mythos. Simple web API to view and edit database also included.
 
 Database based on the following ERD:
-![alt text](https://github.com/haydersaad/GreekMythosDatabase/blob/main/web_api.py)
+![alt text](https://github.com/haydersaad/GreekMythosDatabase/blob/main/erd.png)
 
 
 My entities contain immortals such as gods, deities and titans as well as mortals, which include Greek kings, heroes and women.
